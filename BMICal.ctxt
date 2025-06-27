@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BMICal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ tbwProgram()
+comment3.params=
+comment3.target=void\ bmiProgram()
+comment4.params=height\ weight\ unitChoice
+comment4.target=boolean\ validationWeightHeight(double,\ double,\ int)
+comment5.params=weight\ height\ unitChoice
+comment5.target=double\ calculateBmi(double,\ double,\ int)
+comment6.params=bmi
+comment6.target=java.lang.String\ displayCategory(double)
+comment7.params=answer
+comment7.target=char\ askToRepeat(char)
+numComments=8
