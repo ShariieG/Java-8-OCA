@@ -7,7 +7,6 @@ PURPOSE OF PROJECT: To create a Java-based console application that calculates B
 VERSION or DATE: Version 1.0 – June 2025
 
 HOW TO START THIS PROJECT:
-
 1.If you're using BlueJ:
 Open BlueJ.
 Go to Project > Open Project...
